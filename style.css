@@ -1,0 +1,6 @@
+tr:nth-child(2n + 1) {
+	background-color: antiquewhite;
+}
+thead tr:nth-child(1) {
+	background-color: #fff;
+}
